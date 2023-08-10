@@ -2,11 +2,11 @@
 <h2>About The Project (О проекте) - Website for a detective agency using React</h2>
 
 
-1️⃣ **"Detective Agency with React"** создан для предоставления детективных услуг, где на главной странице сайта можно ознакомиться с деятельностью компании и со списком услуг в блоке "Услуги" и/или нажав на форму для записи.
+1️. **"Detective Agency with React"** создан как корпоративный сайт для предоставления детективных услуг, на главной странице можно ознакомиться с деятельностью компании, со списком услуг в блоке "Услуги" и/или нажав на форму для записи.
 
-2️⃣ Для удобства пользователей на сайте есть возможность прочитать информацию о поставщике услуг на "Главной странице", посмотреть отзывы на странице "Отзывы",  увидеть много разных статей на странице "Блог", ознакомиться с таблицей цен на странице "Цены", узнать местоположение в Google map и часы работы на странице "Конакты".
+2️. Для удобства пользователей на сайте есть возможность прочитать информацию о поставщике услуг на "Главной странице", посмотреть отзывы на странице "Отзывы",  увидеть много разных статей на странице "Блог", ознакомиться с таблицей цен на странице "Цены", узнать местоположение офиса в Googlemaps и часы работы на странице "Конакты"
 
-3️⃣ На сайте использованы только функциональные компоненты.
+3. На сайте использованы только функциональные компоненты.
 
 <h2>Photo Presentation</h2>
 
@@ -19,24 +19,24 @@
 
 ## Getting started
 
-Чтобы запустить проект тебе нужно:
+Чтобы запустить проект нужно:
 <p> `npm install`
 <p> `npm run start`
 
 <h2>Technologies</h2>
 
 :white_check_mark: React    
-:white_check_mark: SCSS      
-:white_check_mark: JavaScript   
-:white_check_mark: Webpack       
 :white_check_mark: Hooks    
 :white_check_mark: Router    
+:white_check_mark: JavaScript   
+:white_check_mark: Webpack       
+:white_check_mark: SCSS      
 :white_check_mark: semantic and adaptive layout *(семантическая и адаптивная вёрстка)*      
 
 <h2>Contacts</h2>
 
-LinkedIn - *https://www.linkedin.com/in/anastasiya-shitenkova/* <br>
-Telegram - *https://t.me/Nemezida_Ok*
+[LinkedIn](https://www.linkedin.com/in/elizaveta-vopilova-644426169)  <br>
+[Telegram](https://t.me/babet_ta)
 
 ## Result:
 https://annastaasia.github.io/React-Detective
